@@ -20,7 +20,7 @@ def test_swd():
 
 while True:
     try:
-        cs.voltage = random.randint(450, 500)
+        cs.voltage = random.randint(450, 500) # adjust the range to needs
         cs.pulse = 1
         #time.sleep(1) Adjust to needs; default is none
         if test_swd():
