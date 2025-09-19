@@ -8,4 +8,4 @@ I hope someday people will be happy to share their pieces of code here and contr
 
 ## Thanks
 
-Huge thanks to @ceres-c for his help on glitcher-threaded.py
+Huge thanks to Federico Cerutti (aka @ceres-c) for his help on glitcher-threaded.py
